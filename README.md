@@ -28,8 +28,11 @@ I am committed to uploading daily coding challenges to keep the preparation stru
 This section of the repository focuses on latest or currently asked questions in the TCS NQT exam. These problems are crucial for practice as they give you a clear understanding of the trends and difficulty level of the exam.
 
 🟢 Recent coding questions
+
 🟢 Updated pattern-based problems
+
 🟢 New logical reasoning challenges
+
 Stay tuned for regular updates, and make sure to check this section frequently!
 
 
